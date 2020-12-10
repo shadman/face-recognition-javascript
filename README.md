@@ -1,11 +1,12 @@
 # face-recognition-javascript
 
-## Using Following Library and Models
+## Using Following Library, Models and Reference
 
 https://github.com/justadudewhohacks/face-api.js
 
 https://github.com/WebDevSimplified/Face-Detection-JavaScript/tree/master/models
 
+https://medium.com/@kkmphele/image-facial-recognition-in-javascript-using-convolutional-neural-networks-with-face-api-js-7ce8a8c7493c
 
 ## Tech Stack
 
