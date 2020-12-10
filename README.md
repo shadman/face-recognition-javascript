@@ -1,4 +1,4 @@
-# face-recognition-javascript
+# Basic Face Recognition Javascript
 
 ## Using Following Library, Models and Reference
 
